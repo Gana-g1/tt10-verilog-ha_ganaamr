@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+based on truth table of half adder
 
 ## How to test
 
-Explain how to use your project
+let a is 0.b is 1.Then sum is 1 and carry is 0
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+ sdcbndsfdh
